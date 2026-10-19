@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/media/rdr.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ0MWdud2kzaXU0MW45bjNwb3NscWN3M241ejg0djM4anRxOW1zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFYJcPazOX9i8/giphy.gif" width="100%" />
 </div>
 
 <h1 align="center">Hi there, I'm Rafi Jadika 👋</h1>
